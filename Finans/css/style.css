@@ -1,0 +1,56 @@
+i.icon-logo {
+    font-size: 25px;
+    border-radius: 10px;
+    background: #ffc107  ;
+    padding: 10px;
+    color: #343a40;
+    
+}
+
+.area-logo .logo{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    padding: 10px;
+}
+
+.area-logo .logo i{
+    margin: 10px;
+}
+
+.barra-nav:hover{
+
+    border-bottom: 1px #ffc107 solid;
+    transition: all 2s;
+
+}
+
+#home{
+    background: #212529;
+    color: #ffc107;
+}
+
+.conteudo{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+
+}
+
+
+.conteudo2{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+    background: #212529;
+    color: #ffc107;
+
+}
+
+
+
+
+
+footer p a{
+    margin: 5px 15px;
+    text-decoration: none;
+
+}
